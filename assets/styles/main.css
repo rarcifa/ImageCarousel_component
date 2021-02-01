@@ -1,0 +1,136 @@
+.box {
+    border: dashed 2px #c7c7c7;
+}
+
+/* Style the counter cards */
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #ffffff;
+  }
+  .logo {
+    width: 9%;
+    height: auto;
+  }
+  
+  .carousel {
+    padding: 10px;
+  }
+  
+  .carousel-item {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  .height {
+    height: 600px !important;
+  }
+  
+  .carousel-image {
+    bottom: -150px;
+    position: absolute;
+  }
+  
+  .absolute {
+    position: absolute;
+    background: #00000045;
+  }
+  
+  .background {
+    filter: brightness(0.7);
+  }
+  
+  .border-content-type {
+    padding: 10px;
+    border: solid 2px #dee2e6;
+  }
+  
+  .content-type {
+    color: #818182d9;
+  }
+  
+  .grey {
+    color: grey
+  }
+  
+  .light-grey {
+    color: #80808070
+  } 
+  
+  .top {
+    padding: 10px 
+    0px;
+  }
+  
+  .tiny {
+    font-size: 12px;
+  }
+  
+  .img-avatar {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  
+  .breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1.75rem 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+    background-color: #ffffff00;
+    border-radius: .25rem;
+  }
+  
+  .navbar.fixed-top {
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.1);
+  }
+  
+  .icon-navbar {
+    width: 20px;
+  }
+  
+  .dark-background{
+    filter: brightness(0.7)!important;
+  }
+  
+  .react-parallax {
+    height: 550px !important;
+  }
+  
+  .hero-heading {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 2rem;
+    font-size: 4.05rem !important;
+  }
+  
+  .purple {
+    color: #aa85e6;
+  }
+  
+  .for-blue {
+    background-color: #668cb9;
+  }
+  
+  .for-white {
+    background-color: #fff;
+  }
+  
+  .for-violet {
+    background-color: #8b6ea4;
+  }
+  .for-red {
+    background-color: #dd6265;
+  }
+
+  img {
+    border-style: none;
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+  }
